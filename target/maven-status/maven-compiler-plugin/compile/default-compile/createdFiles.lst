@@ -1,0 +1,4 @@
+com\nj\springboot\demo\domain\User.class
+com\nj\springboot\demo\repositories\UserRepository.class
+com\nj\springboot\demo\Application.class
+com\nj\springboot\demo\controllers\HomeController.class
